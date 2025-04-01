@@ -55,7 +55,7 @@ File Name: responsive.css
         margin: 0;
     }
     .sm_n0 {
-        display: none;
+        /*display: none;*/
     }
     .tes_n0 {
         display: inherit;
